@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Lizwozsliz
-- 👀 I’m interested in 
+- 👀 I’m interested in neko arc
 
 <!---
 Lizwozsliz/Lizwozsliz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
